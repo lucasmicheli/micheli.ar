@@ -1,5 +1,5 @@
-# Hi there 👋🏻
+# Hola 👋🏻
 
-This repo contains my website in spanish language.
+Este repositorio contiene mi web en idioma español.
 
-You can visit in [here](https://micheli.ar) 👀
+Puedes visitarlo [aquí](https://micheli.ar) 👀
